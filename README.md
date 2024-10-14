@@ -4,9 +4,9 @@
 I am a B.Tech student currently focusing on problem solving and web development. Skilled in C, Java, Python, and proficient in frontend and backend technologies like React.js, Node.js, and MongoDB, I enjoy building full-stack solutions and solving complex challenges.
 
 ## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/sathish-kumar2004" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[LinkedIn](https://www.linkedin.com/in/sathish-kumar2004)
+<a href="https://www.linkedin.com/in/sathish-kumar2004" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[LinkedIn](https://www.linkedin.com/in/sathish-kumar2004)
 
-<a href="mailto:sathishkumarvk227@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[Mail](mailto:sathishkumarvk227@gmail.com)
+<a href="mailto:sathishkumarvk227@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[Mail](mailto:sathishkumarvk227@gmail.com)
 
 - Portfolio: *To be added later*
 
