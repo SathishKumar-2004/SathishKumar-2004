@@ -1,6 +1,6 @@
 # Hi there, I'm Sathish Kumar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 I am a B.Tech student currently focusing on problem solving and web development. Skilled in C, Java, Python, and proficient in frontend and backend technologies like React.js, Node.js, and MongoDB, I enjoy building full-stack solutions and solving complex challenges.
 
 ## 🌐 Connect with me:
