@@ -21,6 +21,8 @@ I am a **B.Tech student** currently focusing on **problem solving** and **web de
 
 2. **Weather Forecasting App using React** - [link](https://github.com/SathishKumar-2004/Weather-Forecasting-app.git)
 
+3. **Travel Diary App using MERN Stack** - [link](https://github.com/SathishKumar-2004/Travel-Diary-App) 
+
 ## 📊 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SathishKumar2004?theme=dark&font=Adamina&ext=heatmap)
 
