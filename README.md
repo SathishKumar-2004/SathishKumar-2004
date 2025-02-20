@@ -11,9 +11,7 @@ I am a **B.Tech student** currently focusing on **problem solving** and **web de
 
 <a href="mailto:sathishkumarvk227@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[Mail](mailto:sathishkumarvk227@gmail.com)
 
-<a href="https://sathishkumar-portfolio-site.netlify.app/" target="_blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=ffffff" alt="Portfolio" height="30" width="30" />
-</a>&nbsp;[Portfolio](https://sathishkumar-portfolio-site.netlify.app)
+<a href="https://sathishkumar-portfolio-site.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=ffffff" alt="Portfolio" height="30" width="30" /></a>&nbsp;[Portfolio](https://sathishkumar-portfolio-site.netlify.app)
 
 
 ## 💻 Key Skills:
