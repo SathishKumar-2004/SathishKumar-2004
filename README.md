@@ -11,7 +11,7 @@ I am a **B.Tech student** currently focusing on **problem solving** and **web de
 
 <a href="mailto:sathishkumarvk227@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;[Mail](mailto:sathishkumarvk227@gmail.com)
 
-<a href="https://sathishkumar-portfolio.netlify.app" target="_blank">
+<a href="https://sathishkumar-portfolio-site.netlify.app/" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Portfolio" height="30" width="30" />
 </a>&nbsp;[Portfolio](https://sathishkumar-portfolio-site.netlify.app)
 
