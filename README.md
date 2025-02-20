@@ -15,6 +15,7 @@ I am a **B.Tech student** currently focusing on **problem solving** and **web de
   <img align="center" src="https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=ffffff" alt="Portfolio" height="30" width="30" />
 </a>&nbsp;[Portfolio](https://sathishkumar-portfolio-site.netlify.app)
 
+
 ## 💻 Key Skills:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
